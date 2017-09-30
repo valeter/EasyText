@@ -1,0 +1,7 @@
+So	far,	we’ve	purposely	kept	things	small	and	simple	in	order	to	understand	the	mechanics	of	module
+creation	and	the	associated	tooling.	However,	the	real	magic	happens	when	you	compose	multiple
+modules.	Only	then	the	advantages	of	the	module	system	become	apparent.
+It	would	be	rather	boring	to	extend	our	Modular	Hello	World	example.	Therefore,	we	continue	with	a
+more	interesting	example	application	called	EasyText.	Starting	from	a	single	monolithic	module,	we
+gradually	create	a	multimodule	application.	EasyText	may	not	be	as	big	as	your	typical	enterprise
+application	(fortunately),	but	it	touches	enough	real-world	concerns	to	serve	as	a	learning	vehicle.
